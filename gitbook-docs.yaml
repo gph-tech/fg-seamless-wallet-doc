@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: ForeGate Seamless Wallet
+  structure:
+    - type: space
+      key: seamless-wallet-integration
+      title: 商户接入与接口文档
+      path: merchant-integration
+      default: true
+      content:
+        directory: .
